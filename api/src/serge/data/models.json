@@ -311,6 +311,22 @@
         ]
     },
     {
+        "name": "Mistral",
+        "models": [
+            {
+                "name": "Mistral7B",
+                "repo": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
+                "files": [
+                    {
+                        "name": "q4_K_M",
+                        "filename": "mistral-7b-instruct-v0.1.Q4_K_M.gguf",
+                        "disk_space": 4370000000.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Llama",
         "models": [
             {
